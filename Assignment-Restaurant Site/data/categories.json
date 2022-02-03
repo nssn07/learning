@@ -1,0 +1,7 @@
+[{"id":82 , "short_name":"A","name":"Lunch","special_instructions":"50Rs extra to have any special ingredient added.","url":"localhost/learn/code/61/mine/data/categories/82.json"},
+{"id":83 , "short_name":"B","name":"Snacks","special_instructions":"50Rs extra to have any special ingredient added.","url":"localhost/learn/code/61/mine/data/categories/83.json"},
+{"id":84 , "short_name":"C","name":"Dinner","special_instructions":"50Rs extra to have any special ingredient added.","url":"localhost/learn/code/61/mine/data/categories/84.json"},
+{"id":85 , "short_name":"D","name":"Breakfast","special_instructions":"50Rs extra to have any special ingredient added.","url":"localhost/learn/code/61/mine/data/categories/85.json"},
+{"id":86 , "short_name":"E","name":"Soup","special_instructions":"50Rs extra to have any special ingredient added.","url":"localhost/learn/code/61/mine/data/categories/86.json"},
+{"id":87 , "short_name":"F","name":"Cakes","special_instructions":"50Rs extra to have any special ingredient added.","url":"localhost/learn/code/61/mine/data/categories/87.json"}
+]
